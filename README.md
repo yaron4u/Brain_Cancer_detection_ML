@@ -1,2 +1,1 @@
-# Brain_Cancer_detection_ML
-Brain cancer detection based on MRI scans
+https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset/data
